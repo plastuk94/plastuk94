@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @plastuk94
-- 👀 I’m interested in software development (I'm most experienced with Java).
-- 🌱 I’m currently learning advanced Java concepts, Spring Boot, and other languages.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I Currently work as a cross-platform mobile developer (C++, Java, Swift).
+- 🌱 I’m currently learning CAN bus stuff, embedded programming and Win32 API.
+- 💞️ I’m looking to collaborate on any kind of open source project that looks cool.
+- 📫 How to reach me: Just shoot me a message!
 
 <!---
 plastuk94/plastuk94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
