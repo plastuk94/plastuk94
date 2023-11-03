@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plastuk94
+- 👋 Hi, I’m Justin White @plastuk94
 - 👀 I Currently work as a cross-platform mobile developer (C++, Java, Swift).
 - 🌱 I’m currently learning CAN bus stuff, embedded programming and Win32 API.
 - 💞️ I’m looking to collaborate on any kind of open source project that looks cool.
